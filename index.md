@@ -7,3 +7,7 @@ now testing code
 element = "now we are testing"
 print(element)
 ```
+- [x] Turn on GitHub Pages
+- [x] Outline my portfolio
+- [x] Introduce myself to the world
+keep in mind me it is not interactive 
